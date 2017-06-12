@@ -1,0 +1,51 @@
+Alabama,AL,Ala.
+Alaska,AK,Alas.
+Arizona,AZ,Ariz.,Az.
+Arkansas,AR,Ark.
+California,Calif.,Ca.,Cal.,CA,Ca,Cal
+Colorado,CO,Colo.,Col.
+Connecticut,CT,Conn.,Ct.
+Delaware,DE,Del.,DEL,De.
+District of Columbia,DC,D.C.,Wash. D.C.
+Florida,FL,Fla.,Fl.,Flor.,Fl,Fla
+Georgia,GA,Ga.,Ga
+Hawaii,HI,HA,H.I.
+Idaho,ID,Id.,
+Illinois,IL,Ill.,
+Indiana,IN,Ind.,
+Iowa,IA
+Kansas,KS,Kans.,Kan.,Ks.,Ka.
+Kentucky,KY,Ky.
+Louisiana,LA,La.
+Maine,ME,Me.
+Maryland,MD,Md.
+Massachusetts,MA,Mass.,Mass
+Michigan,MI,Mich.,Mich
+Minnesota,MN,Minn.,Minn,Mn.
+Mississippi,MS,Miss.,Miss
+Missouri,MO,Mo.
+Montana,MT,Mont.,Mont
+Nebraska,NE,Neb.
+Nevada,NV,Nev.,Nev
+New Hampshire,NH,N.H.
+New Jersey,NJ,N.J.
+New Mexico,NM,N.M.
+New York,NY,N.Y.
+North Carolina,NC,N.C.
+North Dakota,ND,N.D.
+Ohio,OH,Oh.
+Oklahoma,OK,Okla.
+Oregon,OR,Ore.,Or.
+Pennsylvania,PA,Pa.,Penn.
+Rhode Island,RI,R.I.
+South Carolina,SC,S.C.,S. Car.
+South Dakota,SD,S.D.
+Tennessee,TN,Tenn.
+Texas,TX,Tx.
+Utah,UT,Ut.
+Vermont,VT,Vt.
+Virginia,VA,Va.
+Washington,WA,Wa.
+West Virginia,WV,W. Va.,W.Va.,W.V.,W. Virg.
+Wisconsin,WS,Wis.,Wi.,Wisc.
+Wyoming,WY,Wyo.,Wy.
