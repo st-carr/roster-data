@@ -11,8 +11,8 @@ Florida,FL,Fla.,Fl.,Flor.,Fl,Fla
 Georgia,GA,Ga.,Ga
 Hawaii,HI,HA,H.I.
 Idaho,ID,Id.,
-Illinois,IL,Ill.,
-Indiana,IN,Ind.,
+Illinois,IL,Ill.
+Indiana,IN,Ind.
 Iowa,IA
 Kansas,KS,Kans.,Kan.,Ks.,Ka.
 Kentucky,KY,Ky.

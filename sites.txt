@@ -1,64 +1,64 @@
-University of Delaware,Colonial,http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=110422&SPSID=860610
-Monmouth College,Metro Atlantic,http://www.monmouthhawks.com/SportSelect.dbml?SPSID=805710&SPID=109998
-Marist College,Metro Atlantic,http://www.goredfoxes.com/SportSelect.dbml?DB_OEM_ID=27700&SPID=95199&SPSID=638652
-Canisius College,Metro Atlantic,http://www.gogriffs.com/SportSelect.dbml?DB_OEM_ID=20500&SPID=12952&SPSID=105145
-Detroit Mercy,Metro Atlantic,http://www.detroittitans.com/roster.aspx?path=mlax
-Siena College,Metro Atlantic,http://www.sienasaints.com/sports/m-lacros/mtt/sien-m-lacros-mtt.html
-Quinnipiac University,Metro Atlantic,http://www.quinnipiacbobcats.com/roster.aspx?path=mlax
-Manhattan College,Metro Atlantic,http://www.gojaspers.com/SportSelect.dbml?SPID=5430&SPSID=52405
-Army,Patriot,http://goarmywestpoint.com/roster.aspx?path=mlax
-Loyola University,Patriot,http://www.loyolagreyhounds.com/sport/m-lacros/roster/#!/2016/Athletes/table
-Boston University,Patriot,http://www.goterriers.com/roster.aspx?path=mlax
-Lehigh College,Patriot,http://www.lehighsports.com/roster.aspx?path=mlax
-Navy,Patriot,http://www.navysports.com/sports/m-lacros/mtt/navy-m-lacros-mtt.html
-College of Holy Cross,Patriot,http://www.goholycross.com/SportSelect.dbml?SPID=157234&SPSID=1020311
-Bucknell University,Patriot,http://www.bucknellbison.com/SportSelect.dbml?SPID=137634&SPSID=847811
-Colgate University,Patriot,http://gocolgateraiders.com/roster.aspx?path=mlax
-Lafayette University,Patriot,http://www.goleopards.com/sports/m-lacros/mtt/lafa-m-lacros-mtt.html
-University of Richmond,Southern,http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=91949&SPSID=703610
-Air Force,Southern,http://www.goairforcefalcons.com/sports/m-lacros/mtt/afa-m-lacros-mtt.html
-Furman University,Southern,http://www.furmanpaladins.com/sports/m-lacros/2016-17/roster
-Bellarmine University,Southern,http://athletics.bellarmine.edu/roster.aspx?path=mlax
-University of Jacksonville,Southern,http://judolphins.com/sports/mlax/2016-17/roster
-Mercer University,Southern,http://www.mercerbears.com/roster.aspx?path=mlax
-High Point University,Southern,http://www.highpointpanthers.com/roster.aspx?path=mlacrosse
-VMI,Southern,http://www.vmikeydets.com/SportSelect.dbml?SPID=12380&SPSID=100809
-Cleveland State,Independent,http://www.csuvikings.com/sports/m-lacros/2016-17/roster
-Hampton,Independent,http://www.hamptonpirates.com/roster.aspx?path=mlax
-NJIT,Independent,http://www.njithighlanders.com/roster.aspx?path=mlax
-University of Hartford,America East,http://www.hartfordhawks.com/roster.aspx?path=mlax
-University of Vermont,America East,http://uvmathletics.com/roster.aspx?path=mlax
-UMASS Lowell,America East,http://goriverhawks.com/roster.aspx?path=mlax
-Syracuse University,ACC,http://cuse.com/roster.aspx?path=mlacrosse
-Duke University,ACC,http://www.goduke.com/SportSelect.dbml?SPSID=25941&SPID=2027
-University of Notre Dame,ACC,http://www.und.com/sports/m-lacros/mtt/nd-m-lacros-mtt.html
-University of North Carolina Chapel Hill,ACC,http://www.goheels.com/SportSelect.dbml?SPSID=667871&SPID=12968
-University of Virginia,ACC,http://www.virginiasports.com/sports/m-lacros/mtt/va-m-lacros-mtt.html
-University of Maryland,Big Ten,http://www.umterps.com/SportSelect.dbml?DB_OEM_ID=29700&SPID=120711&SPSID=716314
-Ohio State University,Big Ten,http://www.ohiostatebuckeyes.com/sports/m-lacros/mtt/osu-m-lacros-mtt.html
-Penn State University,Big Ten,http://www.gopsusports.com/sports/m-lacros/mtt/psu-m-lacros-mtt.html
-Johns Hopkins University,Big Ten,http://www.hopkinssports.com/sports/m-lacros/mtt/jhop-m-lacros-mtt.html
-Rutgers University,Big Ten,http://www.scarletknights.com/sports/m-lacros/mtt/rutu-m-lacros-mtt.html
-University of Michigan,Big Ten,http://www.mgoblue.com/sports/m-lacros/archive/050217aaa.html
-Denver University,Big East,http://www.denverpioneers.com/sports/m-lacros/mtt/denv-m-lacros-mtt.html
-Villanova University,Big East,http://www.villanova.com/sports/m-lacros/mtt/nova-m-lacros-mtt.html
-Providence College,Big East,http://www.friars.com/sports/m-lacros/mtt/prov-m-lacros-mtt.html
-Marquette University,Big East,http://www.gomarquette.com/sports/m-lacros/mtt/marq-m-lacros-mtt.html
-Georgetown University,Big East,http://www.guhoyas.com/sports/m-lacros/mtt/gu-m-lacros-mtt.html
-St. John's University,Big East,http://www.redstormsports.com/sports/m-lacros/mtt/stjo-m-lacros-mtt.html
-Towson University,Colonial,http://www.towsontigers.com/roster.aspx?path=mlax
-Hofstra University,Colonial,http://gohofstra.com/roster.aspx?path=mlax
-University of Massachusetts,Colonial,http://www.umassathletics.com/roster.aspx?path=mlax
-Drexel University,Colonial,http://www.drexeldragons.com/roster.aspx?roster=239
-Fairfield University,Colonial,http://www.fairfieldstags.com/SportSelect.dbml?SPID=137830&SPSID=893610
-Harvard University,Ivy League,http://www.gocrimson.com/sports/mlax/2016-17/roster
-UPenn,Ivy League,http://www.pennathletics.com/sport/m-lacros/roster/#!/2016/Athletes/table
-Cornell University,Ivy League,http://www.cornellbigred.com/roster.aspx?roster=1189
-Princeton University,Ivy League,http://www.goprincetontigers.com/roster.aspx?path=mlax
-Brown University,Ivy League,http://www.brownbears.com/sports/m-lacros/2016-17/roster
-Yale University,Ivy League,http://www.yalebulldogs.com/sports/m-lacros/2016-17/roster
-Dartmouth College,Ivy League,http://www.dartmouthsports.com/SportSelect.dbml?SPSID=48745&SPID=4694
-University of Albany,America East,http://www.ualbanysports.com/SportSelect.dbml?SPSID=82540&SPID=7980
-Binghampton University,America East,http://www.bubearcats.com/roster.aspx?path=mlax
-UMBC,America East,http://umbcretrievers.com/sports/mlax/2016-17/roster
-Stony Brook University,America East,http://www.stonybrookathletics.com/roster.aspx?path=mlax
+University of Delaware,Colonial,d1,http://www.bluehens.com/SportSelect.dbml?DB_OEM_ID=29100&SPID=110422&SPSID=860610
+Monmouth College,Metro Atlantic,d1,http://www.monmouthhawks.com/SportSelect.dbml?SPSID=805710&SPID=109998
+Marist College,Metro Atlantic,d1,http://www.goredfoxes.com/SportSelect.dbml?DB_OEM_ID=27700&SPID=95199&SPSID=638652
+Canisius College,Metro Atlantic,d1,http://www.gogriffs.com/SportSelect.dbml?DB_OEM_ID=20500&SPID=12952&SPSID=105145
+Detroit Mercy,Metro Atlantic,d1,http://www.detroittitans.com/roster.aspx?path=mlax
+Siena College,Metro Atlantic,d1,http://www.sienasaints.com/sports/m-lacros/mtt/sien-m-lacros-mtt.html
+Quinnipiac University,Metro Atlantic,d1,http://www.quinnipiacbobcats.com/roster.aspx?path=mlax
+Manhattan College,Metro Atlantic,d1,http://www.gojaspers.com/SportSelect.dbml?SPID=5430&SPSID=52405
+Army,Patriot,d1,http://goarmywestpoint.com/roster.aspx?path=mlax
+Loyola University,Patriot,d1,http://www.loyolagreyhounds.com/sport/m-lacros/roster/#!/2016/Athletes/table
+Boston University,Patriot,d1,http://www.goterriers.com/roster.aspx?path=mlax
+Lehigh College,Patriot,d1,http://www.lehighsports.com/roster.aspx?path=mlax
+Navy,Patriot,d1,http://www.navysports.com/sports/m-lacros/mtt/navy-m-lacros-mtt.html
+College of Holy Cross,Patriot,d1,http://www.goholycross.com/SportSelect.dbml?SPID=157234&SPSID=1020311
+Bucknell University,Patriot,d1,http://www.bucknellbison.com/SportSelect.dbml?SPID=137634&SPSID=847811
+Colgate University,Patriot,d1,http://gocolgateraiders.com/roster.aspx?path=mlax
+Lafayette University,Patriot,d1,http://www.goleopards.com/sports/m-lacros/mtt/lafa-m-lacros-mtt.html
+University of Richmond,Southern,d1,http://www.richmondspiders.com/SportSelect.dbml?DB_OEM_ID=26800&SPID=91949&SPSID=703610
+Air Force,Southern,d1,http://www.goairforcefalcons.com/sports/m-lacros/mtt/afa-m-lacros-mtt.html
+Furman University,Southern,d1,http://www.furmanpaladins.com/sports/m-lacros/2016-17/roster
+Bellarmine University,d1,Southern,http://athletics.bellarmine.edu/roster.aspx?path=mlax
+University of Jacksonville,Southern,d1,http://judolphins.com/sports/mlax/2016-17/roster
+Mercer University,Southern,d1,http://www.mercerbears.com/roster.aspx?path=mlax
+High Point University,Southern,d1,http://www.highpointpanthers.com/roster.aspx?path=mlacrosse
+VMI,Southern,d1,http://www.vmikeydets.com/SportSelect.dbml?SPID=12380&SPSID=100809
+Cleveland State,Independent,d1,http://www.csuvikings.com/sports/m-lacros/2016-17/roster
+Hampton,Independent,d1,http://www.hamptonpirates.com/roster.aspx?path=mlax
+NJIT,Independent,d1,http://www.njithighlanders.com/roster.aspx?path=mlax
+University of Hartford,America East,d1,http://www.hartfordhawks.com/roster.aspx?path=mlax
+University of Vermont,America East,d1,http://uvmathletics.com/roster.aspx?path=mlax
+UMASS Lowell,America East,d1,http://goriverhawks.com/roster.aspx?path=mlax
+Syracuse University,ACC,d1,http://cuse.com/roster.aspx?path=mlacrosse
+Duke University,ACC,dd1,http://www.goduke.com/SportSelect.dbml?SPSID=25941&SPID=2027
+University of Notre Dame,ACC,dd1,http://www.und.com/sports/m-lacros/mtt/nd-m-lacros-mtt.html
+University of North Carolina Chapel Hill,ACC,d1,http://www.goheels.com/SportSelect.dbml?SPSID=667871&SPID=12968
+University of Virginia,ACC,d1,http://www.virginiasports.com/sports/m-lacros/mtt/va-m-lacros-mtt.html
+University of Maryland,Big Ten,d1,http://www.umterps.com/SportSelect.dbml?DB_OEM_ID=29700&SPID=120711&SPSID=716314
+Ohio State University,Big Ten,d1,http://www.ohiostatebuckeyes.com/sports/m-lacros/mtt/osu-m-lacros-mtt.html
+Penn State University,Big Ten,d1,http://www.gopsusports.com/sports/m-lacros/mtt/psu-m-lacros-mtt.html
+Johns Hopkins University,Big Ten,d1,http://www.hopkinssports.com/sports/m-lacros/mtt/jhop-m-lacros-mtt.html
+Rutgers University,Big Ten,d1,http://www.scarletknights.com/sports/m-lacros/mtt/rutu-m-lacros-mtt.html
+University of Michigan,Big Ten,d1,http://www.mgoblue.com/sports/m-lacros/archive/050217aaa.html
+Denver University,Big East,d1,http://www.denverpioneers.com/sports/m-lacros/mtt/denv-m-lacros-mtt.html
+Villanova University,Big East,d1,http://www.villanova.com/sports/m-lacros/mtt/nova-m-lacros-mtt.html
+Providence College,Big East,d1,http://www.friars.com/sports/m-lacros/mtt/prov-m-lacros-mtt.html
+Marquette University,Big East,d1,http://www.gomarquette.com/sports/m-lacros/mtt/marq-m-lacros-mtt.html
+Georgetown University,Big East,d1,http://www.guhoyas.com/sports/m-lacros/mtt/gu-m-lacros-mtt.html
+St. John's University,Big East,d1,http://www.redstormsports.com/sports/m-lacros/mtt/stjo-m-lacros-mtt.html
+Towson University,Colonial,d1,http://www.towsontigers.com/roster.aspx?path=mlax
+Hofstra University,Colonial,d1,http://gohofstra.com/roster.aspx?path=mlax
+University of Massachusetts,d1,Colonial,http://www.umassathletics.com/roster.aspx?path=mlax
+Drexel University,Colonial,d1,http://www.drexeldragons.com/roster.aspx?roster=239
+Fairfield University,Colonial,d1,http://www.fairfieldstags.com/SportSelect.dbml?SPID=137830&SPSID=893610
+Harvard University,Ivy League,d1,http://www.gocrimson.com/sports/mlax/2016-17/roster
+UPenn,Ivy League,d1,http://www.pennathletics.com/sport/m-lacros/roster/#!/2016/Athletes/table
+Cornell University,Ivy League,d1,http://www.cornellbigred.com/roster.aspx?roster=1189
+Princeton University,Ivy League,d1,http://www.goprincetontigers.com/roster.aspx?path=mlax
+Brown University,Ivy League,d1,http://www.brownbears.com/sports/m-lacros/2016-17/roster
+Yale University,Ivy League,d1,http://www.yalebulldogs.com/sports/m-lacros/2016-17/roster
+Dartmouth College,Ivy League,d1,http://www.dartmouthsports.com/SportSelect.dbml?SPSID=48745&SPID=4694
+University of Albany,America East,d1,http://www.ualbanysports.com/SportSelect.dbml?SPSID=82540&SPID=7980
+Binghampton University,America East,d1,http://www.bubearcats.com/roster.aspx?path=mlax
+UMBC,America East,d1,http://umbcretrievers.com/sports/mlax/2016-17/roster
+Stony Brook University,America East,d1,http://www.stonybrookathletics.com/roster.aspx?path=mlax
