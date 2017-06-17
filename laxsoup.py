@@ -61,7 +61,7 @@ for indx_0, line in enumerate(reader):
                 g_pos = re.search(r'g$|G$|GK$|Gk$|gk$|Goalie$', td.get_text().replace("\n", "").replace("\t", "").strip())
                 m_pos = re.search(r'm$|M$|Middie$|middie$', td.get_text().replace("\n", "").replace("\t", "").strip())
                 lsm_pos = re.search(r'LSM$|lsm$', td.get_text().replace("\n", "").replace("\t", "").strip())
-                am_pos = re.search(r'A\/M$|a\/m$\M\/A$|m\/a$', td.get_text().replace("\n", "").replace("\t", "").strip())
+                #am_pos = re.search(r'A\/M$|a\/m$\M\/A$|m\/a$', td.get_text().replace("\n", "").replace("\t", "").strip())
                 fo_pos = re.search(r'F\/O|Face-off$|Face-Off$|FO$|FO\/M$|M\/FO$', td.get_text().replace("\n", "").replace("\t", "").strip())
 
                 #Reads in variations on State names and abbreviations from a CSV file
@@ -73,7 +73,7 @@ for indx_0, line in enumerate(reader):
                                 state_check = None
                                 state_check = re.search(r', ' + re.escape(name), td.get_text().replace("\n", "").replace("\t", "").strip())
                                 if state_check:
-                                    player_data['hometown'] = state[0]
+                                    player_data['state'] = state[0]
 
                 #If/Elif checks if the RegEx search method returned true, and if so, assigns a specific data variable directly from the tabledata cell or assigns a predetermined string
                 if weight_match:
@@ -101,8 +101,8 @@ for indx_0, line in enumerate(reader):
                         player_data['position'] = 'midfield'
                 elif lsm_pos:
                         player_data['position'] = 'long stick midfield'
-                elif am_pos:
-                        player_data['position'] = 'attack/midfield'
+                #elif am_pos:
+                        #player_data['position'] = 'attack/midfield'
                 elif fo_pos:
                         player_data['position'] = 'face-off'
 
