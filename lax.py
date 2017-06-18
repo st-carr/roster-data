@@ -134,24 +134,26 @@ def main():
         trs = soup.find_all("tr")
 
         #Iterate over each HTML table row
-        player_out.write(player_data["school"] + "\n")
+        
         for tr in trs:
+            player_out.write(player_data["school"] + "\n")
             #Find all HTML table data cells
             tds = tr.find_all("td")
             #Iterate over each table data cell
             for index_0, td in enumerate(tds):
+                td_data = td.get_text().replace("\n", "").replace("\t", "").strip()
                 if index_0 == player_number_index:
-                    player_out.write("Number: " + str(td.get_text().replace("\n", "").replace("\t", "").strip()) + "\n")
+                    player_out.write("Number: " + str(td_data) + "\n")
                 elif index_0 == player_name_index:
-                    player_out.write("Name: " + str(td.get_text().replace("\n", "").replace("\t", "").strip()) + "\n")
+                    player_out.write("Name: " + str(td_data) + "\n")
                 elif index_0 == player_pos_index:
-                    player_out.write("Position: " + str(td.get_text().replace("\n", "").replace("\t", "").strip()) + "\n")
+                    player_out.write("Position: " + str(td_data) + "\n")
                 elif index_0 == player_ht_index:
-                    player_out.write("Height: " + str(td.get_text().replace("\n", "").replace("\t", "").strip()) + "\n")
+                    player_out.write("Height: " + str(td_data) + "\n")
                 elif index_0 == player_wt_index:
-                    player_out.write("Weight: " + str(td.get_text().replace("\n", "").replace("\t", "").strip()) + "\n")
+                    player_out.write("Weight: " + str(td_data) + "\n")
                 elif index_0 == player_year_index:
-                    player_out.write("Year: " + str(td.get_text().replace("\n", "").replace("\t", "").strip()) + "\n")
+                    player_out.write("Year: " + str(td_data) + "\n")
             player_out.write("\n")
 
 if __name__ == "__main__":
