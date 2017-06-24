@@ -1,0 +1,7 @@
+Harvard University,Ivy League,d1,http://www.gocrimson.com/sports/mlax/2016-17/roster
+UPenn,Ivy League,d1,http://www.pennathletics.com/sport/m-lacros/roster/#!/2016/Athletes/table
+Cornell University,Ivy League,d1,http://www.cornellbigred.com/roster.aspx?roster=1189
+Princeton University,Ivy League,d1,http://www.goprincetontigers.com/roster.aspx?path=mlax
+Brown University,Ivy League,d1,http://www.brownbears.com/sports/m-lacros/2016-17/roster
+Yale University,Ivy League,d1,http://www.yalebulldogs.com/sports/m-lacros/2016-17/roster
+Dartmouth College,Ivy League,d1,http://www.dartmouthsports.com/SportSelect.dbml?SPSID=48745&SPID=4694

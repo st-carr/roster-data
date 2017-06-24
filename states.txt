@@ -11,13 +11,8 @@ Florida,FL,Fla.,Fl.,Flor.,Fl,Fla
 Georgia,GA,Ga.,Ga
 Hawaii,HI,HA,H.I.
 Idaho,ID,Id.,
-<<<<<<< HEAD
-Illinois,IL,Ill.,
-Indiana,IN,Ind.,
-=======
 Illinois,IL,Ill.
 Indiana,IN,Ind.
->>>>>>> 0262bb5678fd0ee2e33ea1264d39427baf870eec
 Iowa,IA
 Kansas,KS,Kans.,Kan.,Ks.,Ka.
 Kentucky,KY,Ky.
