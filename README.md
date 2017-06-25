@@ -1,2 +1,2 @@
 # roster-data
-Web scraper for University athletic rosters.
+Web scraper for lacrosse athletic rosters.
